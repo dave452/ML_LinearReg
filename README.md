@@ -19,6 +19,6 @@ conda env create -f environment.yml
 ```
 
 Activate the environment in conda
-'''
+```
 conda activate ml_tutorial
-'''
+```
